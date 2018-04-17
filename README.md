@@ -106,10 +106,10 @@ sudo minicom -D /dev/tty.USB0 -b 115200
 - Add a LoRA module
 - Configure Bluetooth to allow WiFi provisioning
 - Add USB WiFi
-- Add [GPS module](https://store.uputronics.com/index.php?route=product/product&product_id=84) or USB type
 
 <img src="images/img_4012.jpg" width="200">
 
+- Add [GPS module](https://store.uputronics.com/index.php?route=product/product&product_id=84) or USB type
 - 802.15.4 Zigbee USB module [mmbresearch.com](http://mmbnetworks.com)
 
 ```

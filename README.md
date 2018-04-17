@@ -78,6 +78,8 @@ https://www.adafruit.com/product/70
 [3378774.017028] usb 1-1.5: FTDI USB Serial Device converter now attached to ttyUSB0
 ```
 
+<img src="images/img_4013.jpg" width="600">
+
 - Power off solar monitoring module with the switch on the bottom
 - Remove phillips head screws from EchoSolar panel
 - Remove the Ethernet and Zigbee 15.4 USB radio module
@@ -95,7 +97,7 @@ No flow control
 
 Linux example:
 
-sudo minicom -D /dev/tty.USB0 -b 115200
+sudo minicom -D /dev/ttyUSB0 -b 115200
 
 # Additional Features
 
